@@ -9,7 +9,7 @@
   <li>Persistent data storage with MongoDB</li>
   <li>REST API for backend communication</li>
   <li>Responsive UI built with React</li>
-  <li>Secure routes using JWT authentication</li>
+
 </ul>
 
 <h2>Technologies Used</h2>
@@ -27,5 +27,4 @@
   <li>Node.js</li>
   <li>Express</li>
   <li>MongoDB & Mongoose</li>
-  <li>JWT Authentication</li>
 </ul>
